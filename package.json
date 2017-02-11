@@ -1,0 +1,16 @@
+{
+  "name": "election-code-sender",
+  "version": "1.0.0",
+  "description": "Election code sender",
+  "repository": "https://github.com/markormesher/election-code-sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Mark Ormesher",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "https": "^1.0.0"
+  }
+}
